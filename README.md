@@ -1,6 +1,6 @@
 <h1>SitecoreSuperchargers.GenericItemProvider</h1>
 A Supercharger for Sitecore CMS that allows building data integration with ease.
-<h2>About</h2>
+<h2>ABOUT</h2>
 The purpose of GIP is inbound, unidirectional process of bringing external data, materializing (creating) it in Sitecore and refreshing it periodically.
 It does not support the process of updating external repository from Sitecore, and in 99% of scenarios, this is not what the customers want anyways. 
 Sitecore is usually placed as a content aggregation hub, not an alternative UI to update somebody else’s data.
