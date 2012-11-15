@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "TDSmaster", "TDSmaster\TDSmaster.scproj", "{6702DC6F-B508-452B-905A-BCAFA8D64CA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreSuperchargers.GenericItemProvider.AW", "Web\SitecoreSuperchargers.GenericItemProvider.AW.csproj", "{22FD55A5-97F1-4C77-8568-2CB06275F6E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6702DC6F-B508-452B-905A-BCAFA8D64CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6702DC6F-B508-452B-905A-BCAFA8D64CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6702DC6F-B508-452B-905A-BCAFA8D64CA0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6702DC6F-B508-452B-905A-BCAFA8D64CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6702DC6F-B508-452B-905A-BCAFA8D64CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6702DC6F-B508-452B-905A-BCAFA8D64CA0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{22FD55A5-97F1-4C77-8568-2CB06275F6E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FD55A5-97F1-4C77-8568-2CB06275F6E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FD55A5-97F1-4C77-8568-2CB06275F6E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FD55A5-97F1-4C77-8568-2CB06275F6E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

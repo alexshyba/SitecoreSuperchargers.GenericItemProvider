@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>SitecoreSuperchargers.GenericItemProvider</id>
+    <version>0.0.0.1</version>
+    <title>SitecoreSuperchargers.GenericItemProvider</title>
+    <authors>Alex Shyba,  Sitecore</authors>
+    <owners>Alex Shyba,  Sitecore</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Extension to Sitecore CMS that allows building data integrations with ease.</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2012</copyright>
+    <tags>sitecore supercharger dataproviders</tags>
+  </metadata>
+</package>
