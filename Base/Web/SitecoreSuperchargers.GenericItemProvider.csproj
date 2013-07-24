@@ -49,11 +49,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Sitecore.Kernel">
-      <HintPath>..\sc.lib\Sitecore.Kernel.dll</HintPath>
+      <HintPath>..\..\lib\Sitecore.Kernel.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.Logging">
-      <HintPath>..\sc.lib\Sitecore.Logging.dll</HintPath>
+      <HintPath>..\..\lib\Sitecore.Logging.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System.Data.DataSetExtensions" />
